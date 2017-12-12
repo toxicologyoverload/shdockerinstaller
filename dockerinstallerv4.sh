@@ -1,4 +1,5 @@
 #!/bin/sh
+#this file is over complicated and unessary dont worry about even looking at it I am going to comit a simplier version shortly
 echo docker supports
 echo 1 Ununtu
 echo 2 Debian
